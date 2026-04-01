@@ -15,9 +15,9 @@
 
 ## 🌟 Welcome to APK Nation's Digital Hub!
 
-We're passionate mobile app developers and Android enthusiasts dedicated to creating innovative applications and fostering a vibrant open-source community. With expertise in mobile development, UI/UX design, and cutting-edge app technologies, we build solutions that make a difference in the mobile ecosystem.
+I'm a passionate mobile app developer and Android enthusiast dedicated to creating innovative applications and fostering a vibrant open-source community. With expertise in mobile development, UI/UX design, and cutting-edge app technologies, I build solutions that make a difference in the mobile ecosystem.
 
-Our mission is to democratize mobile app development and provide high-quality, accessible applications for users worldwide. We believe in the power of open-source collaboration and continuously contribute to the Android development community.
+My mission is to democratize mobile app development and provide high-quality, accessible applications for users worldwide. I believe in the power of open-source collaboration and continuously contribute to the Android development community.
 
 ---
 
