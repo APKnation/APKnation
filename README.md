@@ -1,7 +1,7 @@
 # ⭐ APK NATION ⭐
 
 <div align="center">
-  <h2>Mobile App Innovation Hub | Android Development Pioneer | Open-Source Community</h2>
+  <h2>Software Development Powerhouse | 90% Code-Focused | Full-Stack Solutions</h2>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://apknation.com)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@apknation.com)
