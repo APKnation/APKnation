@@ -39,6 +39,7 @@ Our mission is to democratize mobile app development and provide high-quality, a
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,26 +57,6 @@ Our mission is to democratize mobile app development and provide high-quality, a
 
 </div>
 
----
-
-## 📱 Featured Projects
-
-### 🏆 [App Name 1]
-*Description of your flagship mobile application*
-
-**Tech Stack:** Android, Kotlin, Firebase, ML Kit
-
-### 🎯 [App Name 2]
-*Description of another notable project*
-
-**Tech Stack:** React Native, Node.js, MongoDB
-
-### 🔧 [Tool/Library Name]
-*Description of any open-source tools or libraries you've created*
-
-**Tech Stack:** Java, Android SDK, Gradle
-
----
 
 ## � GitHub Analytics
 
@@ -90,10 +71,9 @@ Our mission is to democratize mobile app development and provide high-quality, a
 
 We're always excited to collaborate with fellow developers, designers, and tech enthusiasts. Whether you want to contribute to our projects, discuss mobile development, or explore partnership opportunities, we'd love to hear from you!
 
-- � **Email:** contact@apknation.com
+- � **Email:** atanasikafuka@gmail.com
 - 💼 **Portfolio:** https://apknation.com
-- 📱 **LinkedIn:** https://linkedin.com/in/apknation
-- 🐦 **Twitter:** https://twitter.com/apknation
+- 📱 **LinkedIn:** https://linkedin.com/in
 
 ---
 
