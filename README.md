@@ -75,6 +75,14 @@ I'm always excited to collaborate with fellow developers, designers, and tech en
 
 ---
 
+# 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github.tarxemo.com/badges/APKnation/trophies/)](https://github.tarxemo.com/github/user/APKnation/)
+
+</div>
+
 ⭐ **If you find our projects helpful, consider giving us a star!** ⭐
 
 ---
