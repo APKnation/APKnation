@@ -44,7 +44,7 @@ I’m a passionate **Software Developer** specializing in **Web and Mobile Appli
 I'm always excited to collaborate with fellow developers, designers, and tech enthusiasts. Whether you want to contribute to my projects, discuss mobile development, or explore partnership opportunities, I'd love to hear from you!
 
 - **Email:** atanasikafuka@gmail.com
--  **Portfolio:** https://apknation.com
+-  **Portfolio:** https://apknation.netlify.app/
 -  **LinkedIn:** https://linkedin.com/in
 
 
