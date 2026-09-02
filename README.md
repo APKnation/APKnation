@@ -15,9 +15,8 @@
 
 ## 🌟 Welcome to APK Nation's Digital Hub!
 
-I'm a passionate mobile app developer and Android enthusiast dedicated to creating innovative applications and fostering a vibrant open-source community. With expertise in mobile development, UI/UX design, and cutting-edge app technologies, I build solutions that make a difference in the mobile ecosystem.
+I’m a passionate **Software Developer** specializing in **Web and Mobile Application Development**. I build modern, responsive, and user-focused applications using technologies such as **Angular, React, Django, Spring Boot, Flutter, and Android**. I’m passionate about solving real-world problems, learning emerging technologies, and contributing to the software development and open-source community.
 
-My mission is to democratize mobile app development and provide high-quality, accessible applications for users worldwide. I believe in the power of open-source collaboration and continuously contribute to the Android development community.
 
 ---
 
@@ -30,8 +29,6 @@ My mission is to democratize mobile app development and provide high-quality, ac
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & APIs
@@ -62,13 +59,6 @@ I'm always excited to collaborate with fellow developers, designers, and tech en
 -  **Portfolio:** https://apknation.com
 -  **LinkedIn:** https://linkedin.com/in
 
----
-
-<div align="center">
-  <img src="https://github.com/APKnation/APKnation/blob/main/assets/banner.png?raw=true" alt="APK Nation Banner" width="100%">
-</div>
-
----
 
 # 🏆 Achievements
 
