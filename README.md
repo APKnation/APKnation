@@ -1,19 +1,7 @@
-# ⭐ APK NATION ⭐
 
-<div align="center">
-  <h2>Software Development Powerhouse | 90% Code-Focused | Full-Stack Solutions</h2>
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://apknation.tarxemo.com)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atanasikafuka@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apknation)
-  [![GitHub](https://img.shields.io/badge/Github-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/APKnation)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=APKnation&style=for-the-badge&color=blue)
-</div>
 
----
 
-## 🌟 Welcome to APK Nation's Digital Hub!
+## 🌟 Welcome to ⭐ APK NATION ⭐ Digital Hub!
 
 I’m a passionate **Software Developer** specializing in **Web and Mobile Application Development**. I build modern, responsive, and user-focused applications using technologies such as **Angular, React, Django, Spring Boot, Flutter, and Android**. I’m passionate about solving real-world problems, learning emerging technologies, and contributing to the software development and open-source community.
 
